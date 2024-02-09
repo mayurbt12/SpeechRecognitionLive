@@ -30,9 +30,6 @@ Contributions to Speak Up! are welcome. To contribute:
 - Push to the branch (`git push origin feature/improvement`).
 - Create a new Pull Request.
 
-## License
-Speak Up! is licensed under the [MIT License](LICENSE).
-
 ## About the Author
 Mayur Badkat is a passionate developer with expertise in Python and GUI development. Connect with Mayur on [LinkedIn]() for more information.
 
